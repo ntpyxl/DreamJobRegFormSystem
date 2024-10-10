@@ -3,7 +3,7 @@ CREATE TABLE soft_eng_accounts (
     first_name VARCHAR(16),
     last_name VARCHAR(16),
     age INT,
-    gender VARCHAR(16)
+    gender VARCHAR(16),
     date_of_birth INT,
     religion VARCHAR(32),
     homeAddress VARCHAR(128),

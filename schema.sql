@@ -4,7 +4,7 @@ CREATE TABLE soft_eng_accounts (
     last_name VARCHAR(16),
     age INT,
     gender VARCHAR(16),
-    date_of_birth INT,
+    date_of_birth DATE,
     religion VARCHAR(32),
     homeAddress VARCHAR(128),
     date_registered TIMESTAMP DEFAULT CURRENT_TIMESTAMP,

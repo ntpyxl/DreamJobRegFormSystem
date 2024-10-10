@@ -1,4 +1,4 @@
-CREATE TABLE softEngAccounts (
+CREATE TABLE soft_eng_accounts (
     employee_id INT AUTO_INCREMENT PRIMARY KEY,
     first_name VARCHAR(16),
     last_name VARCHAR(16),
